@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "436786299346",
+    "project_id": "anitra-7fc55",
+    "storage_bucket": "anitra-7fc55.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436786299346:android:2f1c2131ca2a511e95880b",
+        "android_client_info": {
+          "package_name": "com.anitra.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436786299346-7riru1mf91caso1m37n64bhvudv9vr1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anitra.app",
+            "certificate_hash": "16aef77ec8f730971a749b9d91871e952dcbe9d6"
+          }
+        },
+        {
+          "client_id": "436786299346-ov3f65fbvuft2fl1vnapb16n3usmo361.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_5mfCCtlx5gi331SYa-_JgG8APyWcYlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436786299346-ov3f65fbvuft2fl1vnapb16n3usmo361.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
